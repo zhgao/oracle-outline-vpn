@@ -117,4 +117,4 @@ Oracle 有一条规则：免费实例连续 **7 天三项利用率都低于 20%*
 
 ## 备用路径
 
-如果 Oracle 这条最终走不通，备用是 **Google Cloud 90 天 $300 试用**（e2-micro，俄勒冈区），同一套 Outline 安装流程通用。完整步骤见 [GOOGLE.md](GOOGLE.md)。
+如果 Oracle 这条最终走不通，备用是 **Google Cloud 90 天 $300 试用**（e2-micro，俄勒冈区），同一套 Outline 安装流程通用。完整详细步骤见 [GOOGLE.md](GOOGLE.md)——2026-11-07 真实走通的全程记录，含注册坑点、控制台每个入口、防火墙字段详解和试用结束后的付费续用价格。
